@@ -1,0 +1,35 @@
+.image{
+    width: 300px;
+    margin: auto;
+}
+.about{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.snsUl{
+    width: 200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+    writing-mode: vertical-rl;
+    float: right;
+}
+.aboutPlofilLi{
+    padding: 10px 0;
+    display: flex;
+}
+.detail{
+    position: relative;
+    text-align: center;
+    width: 100%;
+    z-index: 10;
+}
+
+@media screen and (max-width:414px){
+    .image{
+        width: 150px;
+    }
+}

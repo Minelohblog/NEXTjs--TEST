@@ -1,0 +1,42 @@
+.PageTop{
+    padding: 150px 0;
+}
+.Technology{
+    color: black;
+}
+.photos{
+color: aqua;
+}
+.all{
+    padding-top: 150px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.oneblock{
+    height: 100%;
+    margin-bottom: 80px;
+    width: 450px;
+    z-index: 10;
+}
+.text{
+    width: 250px;
+    border: 1px solid #000;
+    padding: 5px 10px;
+    font-size: 24px;
+}
+.oneitem{
+    text-align: center;
+    padding: 10px 0;
+    width: 30%;
+}
+.intext{
+    font-size: 16px;
+}
+.inner{
+    border: 1px solid #000;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

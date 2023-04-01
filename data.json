@@ -1,0 +1,126 @@
+{
+    "cardLists": [
+        {
+            "id": 1,
+            "image": "images/card/Reversi.png",
+            "title": "Excelオセロ",
+            "tag": "Excel/VBA",
+            "information": "高校時代、覚えたてのマクロ言語を使いオセロを作りました",
+            "pagedata":[
+                {   
+                    "id": 1,
+                    "image" :"/images/testimage/2.png",
+                    "text":"高校3年生の時に作成。初めて作った作品。Excel上で動くオセロ、それだけ。\nぶっちゃけ特筆すべきこともないんですけど、短いコードで動かすことを意識して作っていた記憶があります。\n斜め方向の判定でバグがあるらしいのですが、制作者本人は未確認のため要検証となってます。（ぶっちゃけ今更直す気が無い）",
+                    "link":"https://www.youtube.com/",
+                    "linksOpiton":"ダウンロードはこちらから",
+                    "Tours":"Excel/VBA",
+                    "period":"2021年1月頃\n（約一か月）"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "image": "images/card/Messagebottle.jpg",
+            "title": "MassageBottle",
+            "tag": "JavaScript GasScript",
+            "information": "このbotを友達登録しているランダムな相手にメッセージを送信します",
+            "pagedata":[
+                {   
+                    "id": 1,
+                    "image" :"/images/testimage/2.png",
+                    "text":"テスト2",
+                    "link":"https://zenn.dev/kanasugi/articles/b0547f5ae1f522",
+                    "linksOpiton":"ダウンロードはこちらから",
+                    "Tours":"Excel/VBA",
+                    "period":"2021年1月頃\n（約一か月）"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "image": "images/card/CommentSwitch.png",
+            "title": "CommentSwitch",
+            "tag": "HTML/CSS JavaScript",
+            "information": "YouTube上にコメント欄の表示非表示を切り替えるボタンを追加します",
+            "pagedata":[
+                {   
+                    "id": 1,
+                    "image" :"/images/testimage/2.png",
+                    "text":"高校3年生の時に作成。初めて作った作品。Excel上で動くオセロ、それだけ。\nぶっちゃけ特筆すべきこともないんですけど、短いコードで動かすことを意識して作っていた記憶があります。\n斜め方向の判定でバグがあるらしいのですが、制作者本人は未確認のため要検証となってます。（ぶっちゃけ今更直す気が無い）",
+                    "link":"https://www.youtube.com/",
+                    "linksOpiton":"ダウンロードはこちらから",
+                    "Tours":"Excel/VBA",
+                    "period":"2021年1月頃\n（約一か月）"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "image": "images/card/Quiz.png",
+            "title": "県当てシルエットゲーム",
+            "tag": "HTML/CSS JavaScript",
+            "information": "学内課題で制作した簡単な県当てクイズゲーム",
+            "pagedata":[
+                {
+                    "image" :"/images/testimage/2.png",
+                    "text":"高校3年生の時に作成。初めて作った作品。Excel上で動くオセロ、それだけ。\nぶっちゃけ特筆すべきこともないんですけど、短いコードで動かすことを意識して作っていた記憶があります。\n斜め方向の判定でバグがあるらしいのですが、制作者本人は未確認のため要検証となってます。（ぶっちゃけ今更直す気が無い）",
+                    "link":"https://www.youtube.com/",
+                    "linksOpiton":"ダウンロードはこちらから",
+                    "Tours":"Excel/VBA",
+                    "period":"2021年1月頃\n（約一か月）"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "image": "images/card/Reversi.png",
+            "title": "Aqours楽曲検索システム",
+            "tag": "HTML/CSS JavaScript PHP",
+            "information": "大好きなスクールアイドルグループ「Aqours」とその関連楽曲を検索するサイトを制作しました",
+            "pagedata":[
+                {
+                    "image" :"/images/testimage/2.png",
+                    "text":"高校3年生の時に作成。初めて作った作品。Excel上で動くオセロ、それだけ。\nぶっちゃけ特筆すべきこともないんですけど、短いコードで動かすことを意識して作っていた記憶があります。\n斜め方向の判定でバグがあるらしいのですが、制作者本人は未確認のため要検証となってます。（ぶっちゃけ今更直す気が無い）",
+                    "link":"https://www.youtube.com/",
+                    "linksOpiton":"ダウンロードはこちらから",
+                    "Tours":"Excel/VBA",
+                    "period":"2021年1月頃\n（約一か月）"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "image": "images/card/Sit-competition.jpg",
+            "title": "社会貢献活動ロゴデザイン",
+            "tag": "Adobe illustrator",
+            "information": "学内で開催されたコンペ企画にて最優秀賞をいただきました",
+            "pagedata":[
+                {
+                    "image" :"/images/testimage/2.png",
+                    "text":"高校3年生の時に作成。初めて作った作品。Excel上で動くオセロ、それだけ。\nぶっちゃけ特筆すべきこともないんですけど、短いコードで動かすことを意識して作っていた記憶があります。\n斜め方向の判定でバグがあるらしいのですが、制作者本人は未確認のため要検証となってます。（ぶっちゃけ今更直す気が無い）",
+                    "link":"https://www.youtube.com/",
+                    "linksOpiton":"ダウンロードはこちらから",
+                    "Tours":"Excel/VBA",
+                    "period":"2021年1月頃\n（約一か月）"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "image": "images/card/cafe-logo.jpg",
+            "title": "カフェロゴデザイン",
+            "tag": "Adobe illustrator",
+            "information": "愛知県にあるカフェのロゴデザインを制作させていただきました",
+            "pagedata":[
+                {
+                    "image" :"/images/testimage/2.png",
+                    "text":"高校3年生の時に作成。初めて作った作品。Excel上で動くオセロ、それだけ。\nぶっちゃけ特筆すべきこともないんですけど、短いコードで動かすことを意識して作っていた記憶があります。\n斜め方向の判定でバグがあるらしいのですが、制作者本人は未確認のため要検証となってます。（ぶっちゃけ今更直す気が無い）",
+                    "link":"https://www.youtube.com/",
+                    "linksOpiton":"ダウンロードはこちらから",
+                    "Tours":"Excel/VBA",
+                    "period":"2021年1月頃\n（約一か月）"
+                }
+            ]
+        }
+    ]
+}

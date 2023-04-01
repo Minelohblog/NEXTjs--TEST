@@ -1,0 +1,40 @@
+.portfolio{
+    padding: 100px 0 ;
+    margin: 0 20%;
+}
+.test{
+    width: 100%;
+}
+.img{
+    position:static !important;
+}
+.title{
+    font-size: 52px;
+}
+.block{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.text{
+    width: 70%;
+    padding-right: 50px;
+}
+.side{
+    width: 30%;
+}
+@media screen and (max-width:768px){
+    .portfolio{
+        margin: 0 5%;
+    }
+    .block{
+        display: block;
+    }
+    .text{
+        width: 100%;
+        padding: 0;
+    }
+    .side{
+        width: 100%;
+    }
+}

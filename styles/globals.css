@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kosugi&display=swap');
+
+header{
+    top: 20px;
+    padding: 0 5%;
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    position: fixed;
+    z-index: 15;
+}
+main{
+    background-color: rgb(255, 255, 255);
+}
+h1{
+    
+    position: absolute;
+    font-family: 'Orbitron', sans-serif;
+    color: #bab8b8;
+    font-size: 150px;
+    z-index: 0;
+}
+
+tr{
+    border-bottom: 1px solid #000;
+    height: 100px;
+    vertical-align: middle;
+}
+th{
+    width: 10%;
+}
+td{
+    text-align: left;
+    vertical-align: middle;
+}
+p{
+    font-family: 'Kosugi', sans-serif;
+    font-size: 26px;
+    white-space: pre-wrap;
+
+}
+li{
+    list-style:none;
+}
+.card{
+    margin: 20px 0;
+    width: 25rem;
+}
+.portfolio{
+    padding-top: 10vh;
+    background-color: #bab8b8;
+}
+.portfolio h1{
+    color: #fff;
+}
+
+h3{
+    position: relative;
+    top: 150px;
+    font-size: 80px;
+}
+h4{
+    padding: 25px 0;
+    font-size: 36px;
+}
+.portfolio h3{
+    writing-mode: vertical-rl;
+}
+.cardBlock{
+    position: relative;
+    top:-100px;
+    width: 85%;
+    margin: auto;
+    display: flex;
+    justify-content:space-around; 
+    flex-wrap: wrap;
+}
+
+footer{
+    margin-top: 100px;
+    padding: 80px;
+    text-align: center;
+    background-color: #bab8b8;
+}
+@media screen and (max-width:768px){
+    h1{
+        font-size: 125px;
+    }
+    h3{
+        font-size: 60px;
+    }
+    header{
+        top: 0;
+        display: block;
+        padding: 0;
+        
+    }
+}
+@media screen and (max-width:414px){
+    h1{
+        font-size: 100px;
+    }
+    h3{
+        top: -30px;
+        font-size: 40px;
+    }
+    tr{
+        height: 75px;
+    }
+    p{
+        font-size: 18px;
+    }
+}

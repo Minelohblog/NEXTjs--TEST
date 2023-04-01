@@ -1,0 +1,107 @@
+{   
+    "Skills":[
+        {
+            "id":1,
+            "name":"Langage",
+            "data": [
+                {
+                    "id": 1,
+                    "image": "/images/Skills/Langage/HTML.png",
+                    "name": "HTML"
+                },
+                {
+                    "id": 2,
+                    "image": "/images/Skills/Langage/CSS.png",
+                    "name": "CSS"
+                },
+                {
+                    "id": 3,
+                    "image": "/images/Skills/Langage/JS.png",
+                    "name": "JavaScript"
+                },
+                {
+                    "id": 4,
+                    "image": "/images/Skills/Langage/PHP.png",
+                    "name": "PHP"
+                },
+                {
+                    "id": 5,
+                    "image": "/images/Skills/Langage/Python.png",
+                    "name": "Python"
+                },
+                {
+                    "id": 6,
+                    "image": "/images/Skills/Langage/C-C++.png",
+                    "name": "C,C++"
+                },
+                {
+                    "id": 7,
+                    "image": "/images/Skills/Langage/Cs.png",
+                    "name": "C#"
+                },
+                {
+                    "id": 8,
+                    "image": "/images/Skills/Langage/JAVA.png",
+                    "name": "Java"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name":"adobe",
+            "data": [
+                {
+                    "id": 1,
+                    "image": "/images/Skills/adobe/PS.png",
+                    "name": "Photoshop"
+                },
+                {
+                    "id": 2,
+                    "image": "/images/Skills/adobe/Ai.png",
+                    "name": "Illustrator"
+                },
+                {
+                    "id": 3,
+                    "image": "/images/Skills/adobe/Pr.png",
+                    "name": "PremierePro"
+                },
+                {
+                    "id": 4,
+                    "image": "/images/Skills/adobe/Ae.png",
+                    "name": "AfterEffects "
+                },
+                {
+                    "id": 5,
+                    "image": "/images/Skills/adobe/Lr.png",
+                    "name": "Lightroom"
+                },
+                {
+                    "id": 6,
+                    "image": "/images/Skills/adobe/XD.png",
+                    "name": "XD"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name":"FrameWork",
+            "data": [
+                {
+                    "id": 1,
+                    "image": "/images/Skills/frameWork/NEXTJS.png",
+                    "name": "NEXT.js"
+                },
+                {
+                    "id": 2,
+                    "image": "/images/Skills/frameWork/React.png",
+                    "name": "React"
+                },
+                {
+                    "id": 3,
+                    "image": "/images/Skills/frameWork/bootstrap.png",
+                    "name": "Bootstrap"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+.screenimg{
+    background-color: #f2f2f2;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image{
+    position: relative;
+    width: 50%;
+    height: 100%;
+}
+.contact{padding-top: 150px;}
+.contactBlock{
+    position: relative;
+    padding-top: 200px;
+    z-index: 1;
+    text-align: center;
+}
+.button{
+    padding-top: 50px;
+}
+.aa{
+    top:0;
+    font-size: 50px;
+}
+/* LINE004 */
+.LinkText {
+    position: relative;
+    display: flex;
+    text-decoration: none;
+    font-size: 30px;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 500px;
+    padding: 50px 80px;
+    color: #495057;
+    transition: 0.3s ease-in-out;
+    font-weight: 600;
+}
+.LinkText:before,
+.LinkText:after {
+	content: '';
+	width: 18px;
+	height: 18px;
+	border-color: #495057;
+	box-sizing: border-box;
+	border-style :solid;
+	display: block;
+	position: absolute;
+	transition: all 0.3s ease-in-out;
+}
+.LinkText:before {
+	top: -6px;
+	left: -6px;
+	border-width: 2px 0 0 2px;
+	z-index: 5;
+}
+.LinkText:after {
+	bottom: -6px;
+	right: -6px;
+	border-width: 0 2px 2px 0;
+}
+.LinkText:hover:before,
+.LinkText:hover:after {
+	width: calc(100% + 12px);
+	height: calc(100% + 12px);
+	border-color: #495057;
+}
+.LinkText:hover {
+	color: #fff;
+	background-color: #495057;
+	border-color: #495057;
+}
+
+@media screen and (max-width:768px){
+    .image{
+        width: 80%;
+    }
+}
+@media screen and (max-width:414px){
+    .image{
+        width: 100%;
+    }
+}
