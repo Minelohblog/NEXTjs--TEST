@@ -1,9 +1,9 @@
 import Link from "next/link";
 import styles from '/styles/header.module.css'
 import Image from "next/image";
-import React,{ UseState } from "react";
+import React,{ useState } from "react";
 function header({ children }) {
-  const [active, setActive] = UseState(false);
+  const [active, setActive] = useState(false);
   const classToggle = () => {
     setActive(!active)
   }
