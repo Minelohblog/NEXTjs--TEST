@@ -1,10 +1,13 @@
 import Link from "next/link";
 import styles from '/styles/header.module.css'
 import Image from "next/image";
-import React,{ UseState } from "react";
-function header({ children }) {
-  const [active, setActive] = UseState(false);
-  const classToggle = () => {
+import { useState } from "react";
+
+const  Header  = ({ children })=>  {
+  
+  const [active, setActive] =  useState(false);
+
+  const useclassToggle = () => {
     setActive(!active)
   }
     return (
@@ -19,7 +22,7 @@ function header({ children }) {
             alt="icon"
           />
           </Link>
-          <div onClick={classToggle} className={`${styles.burger} ${active === true ? styles.toggle : ""}`}>
+          <div onClick={useclassToggle} className={`${styles.burger} ${active === true ? styles.toggle : ""}`}>
             <div className={styles.line1}></div>
             <div className={styles.line2}></div>
             <div className={styles.line3}></div>
@@ -41,4 +44,4 @@ function header({ children }) {
     );
   }
   
-  export default header;
+  export default Header;
