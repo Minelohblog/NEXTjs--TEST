@@ -5,9 +5,9 @@ import styles from '../../styles/portfolio.module.css'
 import Image from 'next/image'
 import Link from 'next/link'
 
-import { UseRouter } from 'next/router'
-const test = (props) => {
-    const router = UseRouter();
+import { useRouter } from 'next/router'
+const PortfolioData = (props) => {
+    const router = useRouter();
     const {id} = router.query;
 
     let images = "/images/testimage/2.png"//props.images;
@@ -54,4 +54,4 @@ const test = (props) => {
     );
 }
 
-export default test;
+export default PortfolioData;
